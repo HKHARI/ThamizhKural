@@ -1,0 +1,232 @@
+<mxfile host="app.diagrams.net" modified="2023-12-02T18:48:05.243Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EqdapVOvO1k_2OeDfaht" version="22.1.5" type="device">
+  <diagram name="Page-1" id="WjTo6saQ1ckG93IiIuMu">
+    <mxGraphModel dx="1434" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AruVLTrpvJof9GSEe52b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.45;entryY=-0.017;entryDx=0;entryDy=0;fontSize=16;spacingTop=0;spacing=2;entryPerimeter=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-1" target="AruVLTrpvJof9GSEe52b-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="867" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;spacingTop=0;spacing=2;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-1" target="AruVLTrpvJof9GSEe52b-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-1" target="AruVLTrpvJof9GSEe52b-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-1" value="திருக்குறள்" style="rounded=0;fontSize=30;fontColor=default;spacingTop=0;spacing=0;fontStyle=1;verticalAlign=middle;align=center;spacingBottom=10;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-2" target="AruVLTrpvJof9GSEe52b-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-2" target="AruVLTrpvJof9GSEe52b-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-2" target="AruVLTrpvJof9GSEe52b-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-2" target="AruVLTrpvJof9GSEe52b-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-2" value="அறத்துப்பால்" style="rounded=0;fontSize=16;fontColor=#4D4D4D;spacingTop=0;spacing=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="87" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-3" target="AruVLTrpvJof9GSEe52b-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="200" />
+              <mxPoint x="470" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-3" target="AruVLTrpvJof9GSEe52b-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="200" />
+              <mxPoint x="470" y="967" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-3" target="AruVLTrpvJof9GSEe52b-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="1140" />
+              <mxPoint x="905" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-3" target="AruVLTrpvJof9GSEe52b-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="200" />
+              <mxPoint x="470" y="800" />
+              <mxPoint x="850" y="800" />
+              <mxPoint x="850" y="900" />
+              <mxPoint x="1037" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-3" target="AruVLTrpvJof9GSEe52b-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="800" />
+              <mxPoint x="850" y="800" />
+              <mxPoint x="850" y="900" />
+              <mxPoint x="826" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-3" value="பொருட்பால்" style="rounded=0;fontSize=16;fontColor=#4D4D4D;spacingTop=0;spacing=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-4" target="AruVLTrpvJof9GSEe52b-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-4" value="காமத்துப்பால்" style="rounded=0;fontSize=16;fontColor=#4D4D4D;spacingTop=0;spacing=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="794" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-17" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="169" y="210" width="198" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;கடவுள் வாழ்த்து&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 16px;&quot;&gt;வான்சிறப்பு&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 16px;&quot;&gt;நீத்தார் பெருமை&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 16px;&quot;&gt;அறன் வலியுறுத்தல்&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-17">
+          <mxGeometry width="198" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-5" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot;&gt;பாயிரவியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-17">
+          <mxGeometry width="198" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-18" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="169" y="360" width="230" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-19" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;ol style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;இல்வாழ்க்கை&lt;/li&gt;&lt;li&gt;வாழ்க்கைத் துணைநலம்&lt;/li&gt;&lt;li&gt;மக்கட்பேறு&lt;/li&gt;&lt;li&gt;அன்புடைமை&lt;/li&gt;&lt;li&gt;விருந்தோம்பல்&lt;/li&gt;&lt;li&gt;இனியவைகூறல்&lt;/li&gt;&lt;li&gt;செய்ந்நன்றி அறிதல்&lt;/li&gt;&lt;li&gt;நடுவு நிலைமை&lt;/li&gt;&lt;li&gt;அடக்கமுடைமை&lt;/li&gt;&lt;li&gt;ஒழுக்கமுடைமை&lt;/li&gt;&lt;li&gt;பிறனில் விழையாமை&lt;/li&gt;&lt;li&gt;பொறையுடைமை&lt;/li&gt;&lt;li&gt;அழுக்காறாமை&lt;/li&gt;&lt;li&gt;வெஃகாமை&lt;/li&gt;&lt;li&gt;புறங்கூறாமை&lt;/li&gt;&lt;li&gt;பயனில சொல்லாமை&lt;/li&gt;&lt;li&gt;தீவினையச்சம்&lt;/li&gt;&lt;li&gt;ஒப்புரவறிதல்&lt;/li&gt;&lt;li&gt;ஈகை&lt;/li&gt;&lt;li&gt;புகழ்&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-18">
+          <mxGeometry width="230" height="450.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-20" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot; href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot;&gt;இல்லறவியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-18">
+          <mxGeometry width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-22" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="169" y="830" width="210" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-23" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;அருளுடைமை&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;புலான்மறுத்தல்&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;தவம்&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;கூடாவொழுக்கம்&lt;/li&gt;&lt;li&gt;கள்ளாமை&lt;/li&gt;&lt;li&gt;வாய்மை&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;வெகுளாமை&lt;/li&gt;&lt;li&gt;இன்னாசெய்யாமை&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;கொல்லாமை&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;நிலையாமை&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;துறவு&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;மெய்யுணர்தல்&lt;/li&gt;&lt;li&gt;அவாவறுத்தல்&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-22">
+          <mxGeometry width="210" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-24" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot; href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot;&gt;துறவறவியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-22">
+          <mxGeometry width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-25" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="169" y="1170" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-26" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;ஊழ்&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-25">
+          <mxGeometry width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-27" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot; href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot;&gt;ஊழியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-25">
+          <mxGeometry width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-39" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="507" y="220" width="270" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-40" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;இறைமாட்சி&lt;/li&gt;&lt;li&gt;கல்வி&lt;/li&gt;&lt;li&gt;கல்லாமை&lt;/li&gt;&lt;li&gt;கேள்வி&lt;/li&gt;&lt;li&gt;அறிவுடைமை&lt;/li&gt;&lt;li&gt;குற்றங்கடிதல்&lt;/li&gt;&lt;li&gt;பெரியாரைத் துணைக்கோடல்&lt;/li&gt;&lt;li&gt;சிற்றினஞ்சேராமை&lt;/li&gt;&lt;li&gt;தெரிந்துசெயல்வகை&lt;/li&gt;&lt;li&gt;வலியறிதல்&lt;/li&gt;&lt;li&gt;காலமறிதல்&lt;/li&gt;&lt;li&gt;இடனறிதல்&lt;/li&gt;&lt;li&gt;தெரிந்துதெளிதல்&lt;/li&gt;&lt;li&gt;தெரிந்துவினையாடல்&lt;/li&gt;&lt;li&gt;சுற்றந்தழால்&lt;/li&gt;&lt;li&gt;பொச்சாவாமை&lt;/li&gt;&lt;li&gt;செங்கோன்மை&lt;/li&gt;&lt;li&gt;கொடுங்கோன்மை&lt;/li&gt;&lt;li&gt;வெருவந்தசெய்யாமை&lt;/li&gt;&lt;li&gt;கண்ணோட்டம்&lt;/li&gt;&lt;li&gt;ஒற்றாடல்&lt;/li&gt;&lt;li&gt;ஊக்கமுடைமை&lt;/li&gt;&lt;li&gt;மடியின்மை&lt;/li&gt;&lt;li&gt;ஆள்வினையுடைமை&lt;/li&gt;&lt;li&gt;இடுக்கணழியாமை&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-39">
+          <mxGeometry width="270" height="559.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-41" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot; href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot;&gt;அரசியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-39">
+          <mxGeometry width="270" height="27.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-42" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="507" y="827" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-43" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;அமைச்சு&lt;/li&gt;&lt;li&gt;சொல்வன்மை&lt;/li&gt;&lt;li&gt;வினைத்தூய்மை&lt;/li&gt;&lt;li&gt;வினைத்திட்பம்&lt;/li&gt;&lt;li&gt;வினைசெயல்வகை&lt;/li&gt;&lt;li&gt;தூது&lt;/li&gt;&lt;li&gt;மன்னரைச் சேர்ந்தொழுதல்&lt;/li&gt;&lt;li&gt;அவையறிதல்&lt;/li&gt;&lt;li&gt;குறிப்பறிதல்&lt;/li&gt;&lt;li&gt;அவையஞ்சாமை&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-42">
+          <mxGeometry width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-44" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot;&gt;அமைச்சியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-42">
+          <mxGeometry width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-45" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="793" y="928" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-46" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;நாடு&lt;/li&gt;&lt;li&gt;அரண்&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-45">
+          <mxGeometry width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-47" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot;&gt;அரணியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-45">
+          <mxGeometry width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-48" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="845" y="1010" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-49" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;பொருள்செயல்வகை&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-48">
+          <mxGeometry y="35" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-50" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot; href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot;&gt;கூழியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-48">
+          <mxGeometry y="35" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-51" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="957" y="923" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-52" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;படைமாட்சி&lt;/li&gt;&lt;li&gt;படைச்செருக்கு&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-51">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-53" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot; href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot;&gt;படையில்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-51">
+          <mxGeometry width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-59" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="487" y="1159" width="253" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-60" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;நட்பு&lt;/li&gt;&lt;li&gt;நட்பாராய்தல்&lt;/li&gt;&lt;li&gt;பழைமை&lt;/li&gt;&lt;li&gt;தீ நட்பு&lt;/li&gt;&lt;li&gt;கூடாநட்பு&lt;/li&gt;&lt;li&gt;பேதைமை&lt;/li&gt;&lt;li&gt;புல்லறிவாண்மை&lt;/li&gt;&lt;li&gt;இகல்&lt;/li&gt;&lt;li&gt;பகைமாட்சி&lt;/li&gt;&lt;li&gt;பகைத்திறந்தெரிதல்&lt;/li&gt;&lt;li&gt;உட்பகை&lt;/li&gt;&lt;li&gt;பெரியாரைப் பிழையாமை&lt;/li&gt;&lt;li&gt;பெண்வழிச்சேறல்&lt;/li&gt;&lt;li&gt;வரைவின்மகளிர்&lt;/li&gt;&lt;li&gt;கள்ளுண்ணாமை&lt;/li&gt;&lt;li&gt;சூது&lt;/li&gt;&lt;li&gt;மருந்து&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-59">
+          <mxGeometry width="253" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-61" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot;&gt;நட்பியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-59">
+          <mxGeometry width="253" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-62" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="1177" width="210" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-63" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;குடிமை&lt;/li&gt;&lt;li&gt;மானம்&lt;/li&gt;&lt;li&gt;பெருமை&lt;/li&gt;&lt;li&gt;சான்றாண்மை&lt;/li&gt;&lt;li&gt;பண்புடைமை&lt;/li&gt;&lt;li&gt;நன்றியில்செல்வம்&lt;/li&gt;&lt;li&gt;நாணுடைமை&lt;/li&gt;&lt;li&gt;குடிசெயல்வகை&lt;/li&gt;&lt;li&gt;உழவு&lt;/li&gt;&lt;li&gt;நல்குரவு&lt;/li&gt;&lt;li&gt;இரவு&lt;/li&gt;&lt;li&gt;இரவச்சம்&lt;/li&gt;&lt;li&gt;கயமை&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-62">
+          <mxGeometry width="210" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-64" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot; href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot;&gt;குடியியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-62">
+          <mxGeometry width="210" height="30.476190476190478" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-67" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1120" y="210" width="210" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-68" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;தகையணங்குறுத்தல்&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;குறிப்பறிதல்&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;புணர்ச்சிமகிழ்தல்&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;நலம்புனைந்துரைத்தல்&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;காதற்சிறப்புரைத்தல்&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;நாணுத்துறவுரைத்தல்&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;அலரறிவுறுத்தல்&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;/ol&gt;&lt;ol&gt;&lt;/ol&gt;&lt;ol&gt;&lt;/ol&gt;&lt;ol&gt;&lt;/ol&gt;&lt;ol&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-67">
+          <mxGeometry x="-246" y="10" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-69" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot; href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot;&gt;களவியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-67">
+          <mxGeometry x="-246" y="10" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-71" value="" style="group;spacingTop=0;spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1120" y="440" width="210" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-72" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;பிரிவாற்றாமை&lt;/li&gt;&lt;li&gt;படர்மெலிந்திரங்கல்&lt;/li&gt;&lt;li&gt;கண்விதுப்பழிதல்&lt;/li&gt;&lt;li&gt;பசப்புறுபருவரல்&lt;/li&gt;&lt;li&gt;தனிப்படர்மிகுதி&lt;/li&gt;&lt;li&gt;நினைந்தவர்புலம்பல்&lt;/li&gt;&lt;li&gt;கனவுநிலையுரைத்தல்&lt;/li&gt;&lt;li&gt;பொழுதுகண்டிரங்கல்&lt;/li&gt;&lt;li&gt;உறுப்புநலனழிதல்&lt;/li&gt;&lt;li&gt;நெஞ்சொடுகிளத்தல்&lt;/li&gt;&lt;li&gt;நிறையழிதல்&lt;/li&gt;&lt;li&gt;அவர்வயின்விதும்பல்&lt;/li&gt;&lt;li&gt;குறிப்பறிவுறுத்தல்&lt;/li&gt;&lt;li&gt;புணர்ச்சிவிதும்பல்&lt;/li&gt;&lt;li&gt;நெஞ்சொடுபுலத்தல்&lt;/li&gt;&lt;li&gt;புலவி&lt;/li&gt;&lt;li&gt;புலவி நுணுக்கம்&lt;/li&gt;&lt;li&gt;ஊடலுவகை&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;ol&gt;&lt;/ol&gt;&lt;ol&gt;&lt;/ol&gt;&lt;ol&gt;&lt;/ol&gt;&lt;ol&gt;&lt;/ol&gt;&lt;ol&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;spacingTop=0;spacing=2;" vertex="1" parent="AruVLTrpvJof9GSEe52b-71">
+          <mxGeometry x="-246" y="16.43" width="210" height="413.57" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-73" value="&lt;h2 style=&quot;font-size: 16px;&quot;&gt;&lt;a href=&quot;https://www.ytamizh.com/thirukuralchapters/pal-1/iyal-1/&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; color: rgb(35, 120, 190); text-decoration-line: none; cursor: pointer; outline: none 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: rgb(254, 254, 243);&quot;&gt;கற்பியல்&lt;/a&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontSize=16;fontStyle=1;spacingTop=0;" vertex="1" parent="AruVLTrpvJof9GSEe52b-71">
+          <mxGeometry x="-246" y="16.4312" width="210" height="29.568800000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.674;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-4" target="AruVLTrpvJof9GSEe52b-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-3" target="AruVLTrpvJof9GSEe52b-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="200" />
+              <mxPoint x="470" y="1377" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AruVLTrpvJof9GSEe52b-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.455;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AruVLTrpvJof9GSEe52b-3" target="AruVLTrpvJof9GSEe52b-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="200" />
+              <mxPoint x="470" y="800" />
+              <mxPoint x="850" y="800" />
+              <mxPoint x="850" y="900" />
+              <mxPoint x="936" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

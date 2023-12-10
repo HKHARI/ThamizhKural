@@ -1,0 +1,666 @@
+{
+    "thirukural" :{
+        "name" : "திருக்குறள்",
+        "nameTL" : "Thirukural",
+        "otherNames" : [
+            {
+                "name" : "முப்பால்",
+                "nameTL" : "Muppal",
+                "reason" :{
+                    "tamil" : "மூன்று பிரிவுகளை கொண்டுள்ளது (அறம், பொருள், இன்பம்)",
+                    "english" : "It consists of three divisions (Virtue, Materiality, Pleasure)"
+                }
+            },
+            {
+                "name" : "பொய்யாமொழி",
+                "nameTL" : "Poiyamozhi",
+                "reason" : {
+                    "tamil" : "குற்றமில்லாத குறள்",
+                    "english" : ""
+                }
+            },
+            {
+                "name" : "பொது மறை",
+                "nameTL" : "Pothu Marai",
+                "reason" : {
+                    "tamil" : "பாகுபாடின்றி பொதுவாக அமைந்த நூல்",
+                    "english" : "A non-discriminatory collection" 
+                }
+            }
+        ],
+        "kuralContent" : {
+            "sections" : ["Arathupaal", "Porutpaal", "Kaamathupaal"],
+            "sectionDetails" : {
+                "Arathuppaal" : {
+                    "name" : "அறத்துப்பால்",
+                    "nameTL" : "Arathupaal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Virtue" 
+                    },
+                    "sectionId" : 1,
+                    "chapterGroups" : ["Paayiraviyal", "Illaraviyal", "Thuravaraviyal", "Oozhiyal"],
+                    "kuralRange" : ["1","380"]
+                },
+                "Porutpaal" : {
+                    "name" : "பொருட்பால்",
+                    "nameTL" : "Porutpaal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Wealth" 
+                    },
+                    "sectionId" : 2,
+                    "chapterGroups" : ["Arasiyal", "Amaichiyal", "Araniyal", "Koozhiyal", "Padaiyil", "Natpiyal", "Kudiyiyal"],
+                    "kuralRange" : ["381","1080"]
+                },
+                "Kaamathupaal" : {
+                    "name" : "காமத்துப்பால்",
+                    "nameTL" : "Kaamathupaal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Love" 
+                    },
+                    "sectionId" : 3,
+                    "chapterGroups" : ["Kalaviyal", "Karpiyal"],
+                    "kuralRange" : ["1081","1330"]
+                }
+            },
+            "chapterGroupDetails" : {
+                "Paayiraviyal" : {
+                    "name" : "பாயிரவியல்",
+                    "nameTL" : "Paayiraviyal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Prologue" 
+                    },
+                    "chapterGroupId" : 1,
+                    "sectionName" : "Arathupaal",
+                    "chapters" : ["KadavulVaazhthu", "Vaansirapu", "NeethaarPerumai", "AranValiyuruthal"],
+                    "kuralRange" : ["1","40"]
+                },
+                "Illaraviyal" : {
+                    "name" : "இல்லறவியல்",
+                    "nameTL" : "",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Domestic Virtue" 
+                    },
+                    "chapterGroupId" : 2,
+                    "sectionName" : "Arathupaal",
+                    "chapters" : ["Ilvaazhkai", "Vaazhkaith_Thunainalam", "Makkatperu", "Anbudaimai", "Virundhombal", "Iniyavaikooral", "Seinandri_Arithal", "Naduvu_Nilaimai", "AdakamUdaimai", "OzhukamUdaimai", "PiranilVizhaiyamai", "Poraiudaimai", "Azhukaraamai", "Veqkaamai", "PuranKooramai", "Payanila_Sollaamai", "Thevinaiyacham", "Oppuravaridhal", "Eegai", "Pugazh"],
+                    "kuralRange" : ["41","240"]
+                },
+                "Thuravaraviyal" : {
+                    "name" : "துறவறவியல்",
+                    "nameTL" : "Thuravaraviyal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Ascetic Virtue" 
+                    },
+                    "chapterGroupId" : 3,
+                    "sectionName" : "Arathupaal",
+                    "chapters" : ["Aruludaimai", "Pulaalmaruthal", "Thavam", "Koodavozhukam", "Kallamai", "Vaimai", "Vegulaamai", "Innaseiyamai", "Kollaamai", "Nilaiyamai", "Thuravu", "Meiunardhal", "Avavaruthal"],
+                    "kuralRange" : ["241","370"]
+                },
+                "Oozhiyal" : {
+                    "name" : "ஊழியல்",
+                    "nameTL" : "Oozhiyal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Fate" 
+                    },
+                    "chapterGroupId" : 4,
+                    "sectionName" : "Arathupaal", 
+                    "chapters" : ["Oozh"],
+                    "kuralRange" : ["371","380"]
+                },
+                "Arasiyal" : {
+                    "name" : "",
+                    "nameTL" : "",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "" 
+                    },
+                    "chapterGroupId" : 5,
+                    "sectionName" : "Porutpaal", 
+                    "chapters" : [""],
+                    "kuralRange" : ["",""]
+                }, 
+                "Amaichiyal" : {
+                    "name" : "",
+                    "nameTL" : "",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "" 
+                    },
+                    "chapterGroupId" : 6,
+                    "sectionName" : "Porutpaal", 
+                    "chapters" : [""],
+                    "kuralRange" : ["",""]
+                }, 
+                "Araniyal" : {
+                    "name" : "",
+                    "nameTL" : "",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "" 
+                    },
+                    "chapterGroupId" : 7,
+                    "sectionName" : "Porutpaal", 
+                    "chapters" : [""],
+                    "kuralRange" : ["",""]
+                }, 
+                "Koozhiyal" : {
+                    "name" : "",
+                    "nameTL" : "",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "" 
+                    },
+                    "chapterGroupId" : 8,
+                    "sectionName" : "Porutpaal", 
+                    "chapters" : [""],
+                    "kuralRange" : ["",""]
+                }, 
+                "Padaiyil" : {
+                    "name" : "",
+                    "nameTL" : "",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "" 
+                    },
+                    "chapterGroupId" : 9,
+                    "sectionName" : "Porutpaal", 
+                    "chapters" : [""],
+                    "kuralRange" : ["",""]
+                }, 
+                "Natpiyal" : {
+                    "name" : "",
+                    "nameTL" : "",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "" 
+                    },
+                    "chapterGroupId" : 10,
+                    "sectionName" : "Porutpaal", 
+                    "chapters" : [""],
+                    "kuralRange" : ["",""]
+                }, 
+                "Kudiyiyal" : {
+                    "name" : "",
+                    "nameTL" : "",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "" 
+                    },
+                    "chapterGroupId" : 11,
+                    "sectionName" : "Porutpaal", 
+                    "chapters" : [""],
+                    "kuralRange" : ["",""]
+                },
+                "Kalaviyal" : {
+                    "name" : "",
+                    "nameTL" : "",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "" 
+                    },
+                    "chapterGroupId" : 12,
+                    "sectionName" : "Kaamathuppaal", 
+                    "chapters" : [""],
+                    "kuralRange" : ["",""]
+                }, 
+                "Karpiyal" : {
+                    "name" : "",2
+                    "nameTL" : "",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "" 
+                    },
+                    "chapterGroupId" : 12,
+                    "sectionName" : "Kaamathuppaal", 
+                    "chapters" : [""],
+                    "kuralRange" : ["",""]
+                }
+            },
+            "chapterDetails" : {
+                "KadavulVaazhthu" : {
+                    "name" : "கடவுள் வாழ்த்து",
+                    "nameTL" : "Kadavul Vaazhthu",
+                    "meaning" : {
+                        "tamil" : "கடவுள் வாழ்த்து",
+                        "english" : "The Praise of God" 
+                    },
+                    "chapterId" : 1,
+                    "chapterGroupName" : "Paayiraviyal", 
+                    "kuralRange" : ["1","10 "]
+                }, 
+                "Vaansirapu" : {
+                    "name" : "வான்சிறப்பு",
+                    "nameTL" : "Vaansirapu",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "The Blessing of Rain" 
+                    },
+                    "chapterId" : 2,
+                    "chapterGroupName" : "Paayiraviyal", 
+                    "kuralRange" : ["11","20 "]
+                }, 
+                "NeethaarPerumai" : {
+                    "name" : "நீத்தார் பெருமை",
+                    "nameTL" : "Neethaar Perumai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "The Greatness of Ascetics" 
+                    },
+                    "chapterId" : 3,
+                    "chapterGroupName" : "Paayiraviyal", 
+                    "kuralRange" : ["21","30 "]
+                }, 
+                "AranValiyuruthal" : {
+                    "name" : "அறன் வலியுறுத்தல்",
+                    "nameTL" : "Aran Valiyuruththal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Assertion of the Strength of Virtue" 
+                    },
+                    "chapterId" : 4,
+                    "chapterGroupName" : "Paayiraviyal",
+                    "kuralRange" : ["31","40 "]
+                },
+                "Ilvaazhkai" : {
+                    "name" : "இல்வாழ்க்கை",
+                    "nameTL" : "Ilvaazhkai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Domestic Life" 
+                    },
+                    "chapterId" : 5,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["41","50 "]
+                }, 
+                "VaazhkaithThunainalam" : {
+                    "name" : "வாழ்க்கைத் துணைநலம்",
+                    "nameTL" : "Vaazhkaith Thunainalam",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "The Worth of a Wife" 
+                    },
+                    "chapterId" : 6,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["51","60 "]
+                },
+                "Makkatperu" : {
+                    "name" : "மக்கட்பேறு",
+                    "nameTL" : "Makkatperu",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "The Wealth of Children" 
+                    },
+                    "chapterId" : 7,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["61","70 "]
+                },
+                "Anbudaimai" : {
+                    "name" : "அன்புடைமை",
+                    "nameTL" : "Anbudaimai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "The Possession of Love" 
+                    },
+                    "chapterId" : 8,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["71","80 "]
+                },
+                "Virundhombal" : {
+                    "name" : "விருந்தோம்பல்",
+                    "nameTL" : "Virundhombal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Hospitality" 
+                    },
+                    "chapterId" : 9,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["81","90 "]
+                },
+                "Iniyavaikooral" : {
+                    "name" : "இனியவை கூறல்",
+                    "nameTL" : "Iniyavai kooral",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "The Utterance of Pleasant Words" 
+                    },
+                    "chapterId" : 10,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["91","100 "]
+                },
+                "SeinandriArithal" : {
+                    "name" : "செய்ந்நன்றி அறிதல்",
+                    "nameTL" : "Seinandri Arithal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Gratitude" 
+                    },
+                    "chapterId" : 11,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["101","110 "]
+                },
+                "NaduvuNilaimai" : {
+                    "name" : "நடுவு நிலைமை",
+                    "nameTL" : "Naduvu Nilaimai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Impartiality" 
+                    },
+                    "chapterId" : 12,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["111","120 "]
+                },
+                "AdakamUdaimai" : {
+                    "name" : "அடக்கம் உடைமை",
+                    "nameTL" : "Adakam Udaimai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "The Possession of Self-restraint" 
+                    },
+                    "chapterId" : 13,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["121","130 "]
+                },
+                "OzhukamUdaimai" : {
+                    "name" : "ஒழுக்கம் உடைமை",
+                    "nameTL" : "Ozhukam Udaimai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "The Possession of Decorum" 
+                    },
+                    "chapterId" : 14,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["131","140 "]
+                },
+                "PiranilVizhaiyamai" : {
+                    "name" : "பிறனில் விழையாமை",
+                    "nameTL" : "Piranil Vizhaiyamai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Not coveting another\"s Wife" 
+                    },
+                    "chapterId" : 15,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["141","150 "]
+                },
+                "Poraiudaimai" : {
+                    "name" : "பொறையுடைமை",
+                    "nameTL" : "Poraiudaimai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "The Possession of Patience, Forbearance" 
+                    },
+                    "chapterId" : 16,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["151","160 "]
+                },
+                "Azhukaraamai" : {
+                    "name" : "அழுக்காறாமை",
+                    "nameTL" : "Azhukaraamai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Not Envying" 
+                    },
+                    "chapterId" : 17,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["161","170 "]
+                },
+                "Veqkaamai" : {
+                    "name" : "வெஃகாமை",
+                    "nameTL" : "Veqkaamai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Not Coveting" 
+                    },
+                    "chapterId" : 18,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["171","180 "]
+                },
+                "PuranKooramai" : {
+                    "name" : "புறங்கூறாமை",
+                    "nameTL" : "PuranKooramai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Not Backbiting" 
+                    },
+                    "chapterId" : 19,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["181","190 "]
+                },
+                "PayanilaSollaamai" : {
+                    "name" : "பயனில சொல்லாமை",
+                    "nameTL" : "Payanila Sollaamai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Against Vain Speaking" 
+                    },
+                    "chapterId" : 20,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["191","200 "]
+                },
+                "Thevinaiyacham" : {
+                    "name" : "தீவினையச்சம்",
+                    "nameTL" : "Thevinaiyacham",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Dread of Evil Deeds" 
+                    },
+                    "chapterId" : 21,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["201","210 "]
+                },
+                "Oppuravaridhal" : {
+                    "name" : "ஒப்புரவறிதல்",
+                    "nameTL" : "Oppuravaridhal",
+                    "meaning" : {
+                        "tamil" : "Duty to Society",
+                        "english" : "" 
+                    },
+                    "chapterId" : 22,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["211","220 "]
+                },
+                "Eegai" : {
+                    "name" : "ஈகை",
+                    "nameTL" : "Eegai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Giving" 
+                    },
+                    "chapterId" : 23,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["221","230 "]
+                },
+                "Pugazh" : {
+                    "name" : "புகழ்",
+                    "nameTL" : "Pugazh",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Fame" 
+                    },
+                    "chapterId" : 24,
+                    "chapterGroupName" : "Illaraviyal",
+                    "kuralRange" : ["231","240 "]
+                },
+                "Aruludaimai" : {
+                    "name" : "அருளுடைமை",
+                    "nameTL" : "Aruludaimai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Compassion" 
+                    },
+                    "chapterId" : 25,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["241","250 "]
+                }, 
+                "Pulaalmaruthal" : {
+                    "name" : "புலால் மறுத்தல்",
+                    "nameTL" : "Pulaal Maruthal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Abstinence from Flesh" 
+                    },
+                    "chapterId" : 26,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["251","260 "]
+                }, 
+                "Thavam" : {
+                    "name" : "தவம்",
+                    "nameTL" : "Thavam",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Penance" 
+                    },
+                    "chapterId" : 27,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["261","270 "]
+                }, 
+                "Koodavozhukam" : {
+                    "name" : "கூடா ஒழுக்கம்",
+                    "nameTL" : "Koodavozhukam",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Imposture" 
+                    },
+                    "chapterId" : 28,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["271","280 "]
+                }, 
+                "Kallamai" : {
+                    "name" : "கள்ளாமை",
+                    "nameTL" : "Kallamai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "The Absence of Fraud" 
+                    },
+                    "chapterId" : 29,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["281","290 "]
+                }, 
+                "Vaimai" : {
+                    "name" : "வாய்மை",
+                    "nameTL" : "Vaaimai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Veracity" 
+                    },
+                    "chapterId" : 30,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["291","300 "]
+                }, 
+                "Vegulaamai" : {
+                    "name" : "வெகுளாமை",
+                    "nameTL" : "Vegulaamai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Restraining Anger" 
+                    },
+                    "chapterId" : 31,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["301","310 "]
+                }, 
+                "Innaseiyamai" : {
+                    "name" : "இன்னா செய்யாமை",
+                    "nameTL" : "Inna Seiyamai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Not doing Evil" 
+                    },
+                    "chapterId" : 32,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["311","320 "]
+                }, 
+                "Kollaamai" : {
+                    "name" : "கொல்லாமை",
+                    "nameTL" : "Kollaamai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Not killing" 
+                    },
+                    "chapterId" : 33,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["321","330 "]
+                }, 
+                "Nilaiyamai" : {
+                    "name" : "நிலையாமை",
+                    "nameTL" : "Nilaiyamai",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Instability" 
+                    },
+                    "chapterId" : 34,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["331","340 "]
+                }, 
+                "Thuravu" : {
+                    "name" : "துறவு",
+                    "nameTL" : "Thuravu",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Renunciation" 
+                    },
+                    "chapterId" : 35,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["341","350 "]
+                }, 
+                "Meiunardhal" : {
+                    "name" : "மெய்யுணர்தல்",
+                    "nameTL" : "Meiunardhal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Truth-Conciousness" 
+                    },
+                    "chapterId" : 36,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["351","360 "]
+                }, 
+                "Avavaruthal" : {
+                    "name" : "அவாவறுத்தல்",
+                    "nameTL" : "Avavaruthal",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "Curbing of Desire" 
+                    },
+                    "chapterId" : 37,
+                    "chapterGroupName" : "Thuravaraviyal",
+                    "kuralRange" : ["361","370 "]
+                },
+                "Oozh" : {
+                    "name" : "ஊழ்",
+                    "nameTL" : "Oozh",
+                    "meaning" : {
+                        "tamil" : "",
+                        "english" : "FateFate" 
+                    },
+                    "chapterId" : 38,
+                    "chapterGroupName" : "Oozhiyal",
+                    "kuralRange" : ["371","380 "]
+                },
+            }
+        },
+        "poetDetails" : {
+            "name" : {
+                "tamil" : "திருவள்ளுவர்",
+                "english" : "Thiruvalluvar"
+            },
+            "born" : {
+                "tamil" : "உறுதியாகத் தெரியவில்லை; அனேகமாக மயிலை [மயிலாப்பூர்]",
+                "english" : "Birthplace unknown; probably Mylapore"
+            },
+            "otherNames" : {
+                "tamil" : ["வள்ளுவர்", "ஞானவெட்டியான்", "நாயனார்", "மாதானுபங்கி"],
+                "english" : ["Valluvar", "Nyanavettiyan", "Naayanaar", "Maadhaanupangi"]
+            },
+            "spouse" : {
+                "tamil" : "வாசுகி",
+                "english" : "Vasuki"
+            }
+        }
+    }
+}
